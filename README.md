@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniela Guzmán Santamaría
-- 👀 I’m interested in web development and movil
-- 🌱 I’m currently learning Front-End frameworks
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Back-End with Java frameworks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
